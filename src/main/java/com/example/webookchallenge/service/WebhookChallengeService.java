@@ -59,7 +59,7 @@ public class WebhookChallengeService {
             logger.info("Sending POST request to: {}", WEBHOOK_GENERATION_URL);
 
             // Create request payload exactly as specified
-            WebhookRequest request = new WebhookRequest("Vedansh Jain", "187", "vedansh.code@gmail.com");
+            WebhookRequest request = new WebhookRequest("shreyash Jain", "187", "shreyash.code@gmail.com");
             logger.info("Request payload: name='{}', regNo='{}', email='{}'",
                     request.getName(), request.getRegNo(), request.getEmail());
 
