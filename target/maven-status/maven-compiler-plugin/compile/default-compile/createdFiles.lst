@@ -1,0 +1,7 @@
+com\example\webookchallenge\service\WebhookChallengeService.class
+com\example\webookchallenge\WebookchallengeApplication.class
+com\example\webookchallenge\model\WebhookRequest.class
+com\example\webookchallenge\model\WebhookResponse.class
+com\example\webookchallenge\config\RestConfig.class
+com\example\webookchallenge\model\SolutionRequest.class
+com\example\webookchallenge\runner\ApplicationStartupRunner.class
